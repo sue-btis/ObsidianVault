@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "1ef7454b1a2c45e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed54f9153cc2d0fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1c15d13fffdf779",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ddac343a70fa0a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3.2 Wrapper Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3.2 Wrapper Methods"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4084db99a8aa6717",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8580f33074497d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073f59ae89b15fa6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "59e8788281578629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "664bc6bc69d549f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5026054382324
+  },
+  "right": {
+    "id": "5a85d44b814d793f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccc5c44e07e18fae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ae9017141a80ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DATA SCIENCE/4 Maths/Stadistics/3 EDA AVANZADO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3 EDA AVANZADO"
+            }
+          },
+          {
+            "id": "4a49b1cce8e74516",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "dcbe28595fa9bd54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e43b1cbe283dc159",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "fb35237dc3271d65",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ddac343a70fa0a1e",
+  "lastOpenFiles": [
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3.2 Wrapper Methods.md",
+    "JAVA/1. JAVA/JAVA.md",
+    "JAVA/2. SPRING BOOT/2.1 PROY REST with JPA/3 DAO CRUD.md",
+    "JAVA/2. SPRING BOOT/2.1 PROY REST with JPA/2 SERVICE LAYER.md",
+    "JAVA/2. SPRING BOOT/2.1 PROY REST with JPA/0 Proyect SPRING REST using DB.md",
+    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/1 Main Concepts.md",
+    "DATA SCIENCE ROADMAP/3 Mathemetics/Stadistics/3 EDA ADV Variance and Standard Deviation.md",
+    "DATA SCIENCE ROADMAP/2 Data Analysis/Data Analysis/DATA ANALYSIS.md",
+    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/2 Types of Data Analysis.md",
+    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/3 Data Science workflow.md",
+    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/3 Writing Data Science Reports.md",
+    "DATA SCIENCE ROADMAP/3 Mathemetics/Stadistics/2 Rules of Probability.md",
+    "DATA SCIENCE ROADMAP/3 Mathemetics/Stadistics/1 Stadistics.md",
+    "DATA SCIENCE/4 Maths/Stadistics/1 Stadistics.md",
+    "DATA SCIENCE/1 Data Science/DATA SCIENCE.md",
+    "DATA SCIENCE ROADMAP/2 Data Analysis",
+    "DATA SCIENCE ROADMAP/1 Data Science/DATA SCIENCE ROADMAP.md",
+    "DATA SCIENCE/4 Maths/Math.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/CHEATSHEET de ML.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/1 ML intro.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3 Methods for Feature Reduction.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.2 Methods for Dimensional Reduction.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3.1 Filter Methods.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2 Feature Engineering.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.1 Transformation Methods.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.1.2 Encoding Categorical Variables.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.1.1 Numerical Transformations.md",
+    "999. IMG FOLDER/image-27.png",
+    "PYTHON/7 Scikit-Learn",
+    "CHEATSHEETS/ai_data_scientist_roadmap.canvas",
+    "999. IMG FOLDER/image-26.png",
+    "999. IMG FOLDER/image-25.png",
+    "999. IMG FOLDER/image-24.png",
+    "999. IMG FOLDER/image-23.png",
+    "999. IMG FOLDER/image-22.png",
+    "999. IMG FOLDER/image-21.png",
+    "PYTHON/6 Numpy",
+    "999. IMG FOLDER/image-20.png",
+    "999. IMG FOLDER/image-19.png",
+    "999. IMG FOLDER/proyeccion_ortonormal-1.png",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning",
+    "DATA SCIENCE ROADMAP/3 Mathemetics/Stadistics",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/1 ML",
+    "DATA SCIENCE ROADMAP/4 Machine Learning",
+    "DATA SCIENCE ROADMAP/3 EDA/1 EDA",
+    "DATA SCIENCE ROADMAP/3 EDA",
+    "DATA SCIENCE ROADMAP/3 Mathemetics/Maths",
+    "DATA SCIENCE ROADMAP/ai_data_scientist_roadmap_detailed.canvas",
+    "CHEATSHEETS/Untitled.canvas",
+    "Untitled.canvas",
+    "CHEATSHEETS/SQL.canvas",
+    "2.1 PROY REST with JPA/DAO CRUD.canvas",
+    "2.1 PROY REST with JPA/Service layer.canvas",
+    "malenos.canvas",
+    "ServiceImage.canvas",
+    "2.1 PROY REST with JPA/ServicePhoto.canvas"
+  ]
+}
