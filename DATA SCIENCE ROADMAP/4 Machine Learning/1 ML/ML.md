@@ -1,2 +1,2 @@
 #Machine_Learning 
-[[1 ML intro]]
+[[1 ML INTRO]]

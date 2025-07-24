@@ -18,6 +18,15 @@
         "pattern": "",
         "patternType": "WILDCARD"
       }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
     ]
   },
   "hideFilters": {
@@ -34,15 +43,17 @@
       {
         "name": "",
         "active": true,
-        "type": "FILES_AND_DIRECTORIES",
-        "pattern": "",
-        "patternType": "WILDCARD"
-      },
+        "type": "FILES",
+        "pattern": "DATA SCIENCE/1 Data Science/DATA SCIENCE.md",
+        "patternType": "STRICT"
+      }
+    ],
+    "frontMatter": [
       {
         "name": "",
         "active": true,
-        "type": "FILES",
-        "pattern": "DATA SCIENCE/1 Data Science/DATA SCIENCE.md",
+        "path": "",
+        "pattern": "",
         "patternType": "STRICT"
       }
     ]

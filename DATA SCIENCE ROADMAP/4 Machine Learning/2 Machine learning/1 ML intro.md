@@ -1,5 +1,8 @@
 #Machine_Learning 
-[[2 Feature Engineering]]
+[[2 FEATURE ENGINEERING]]
+[[3 SUPERVISED LEARNING]]
+[[4 UNSUPERVISED LEARNING]]
+[[5 HYPERPARAMETER TUNNING]]
 
 <div style="text-align: center;">
   <img src="999. IMG FOLDER/image-26.png" alt="Mi Imagen" width="600">

@@ -1,0 +1,96 @@
+# Naive Bayes Classifier and Bayes' Theorem
+
+Naive Bayes is a simple yet powerful classification algorithm based on **Bayes' Theorem**. It is especially effective for **text classification** problems such as spam detection or sentiment analysis.
+
+---
+
+## 📘 Bayes' Theorem
+
+Bayes' Theorem describes the probability of an event based on prior knowledge of conditions that might be related to the event.
+
+$$
+P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
+$$
+
+Where:
+- $P(A|B)$: Posterior probability of class A given B
+- $P(B|A)$: Likelihood of B given A
+- $P(A)$: Prior probability of class A
+- $P(B)$: Total probability of B
+
+---
+
+## 🧠 Naive Bayes Assumption
+
+The model assumes that features are **conditionally independent** given the class. For text data, this means each word contributes independently to the probability.
+
+---
+
+## 🔤 Text Classification Example
+
+We'll use **CountVectorizer** to convert text to feature vectors and **MultinomialNB** (Naive Bayes for discrete counts).
+
+### 🔧 Installing Required Libraries
+
+```bash
+pip install scikit-learn
+```
+
+---
+
+## 📥 Sample Dataset
+
+```python
+X = ["Free money now", "Call me now", "Hello friend", "Meeting today", "Win big prize"]
+y = ["spam", "spam", "ham", "ham", "spam"]
+```
+
+---
+
+## 🛠 CountVectorizer + MultinomialNB
+
+```python
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.pipeline import make_pipeline
+
+# Create pipeline
+model = make_pipeline(CountVectorizer(), MultinomialNB())
+
+# Train the model
+model.fit(X, y)
+
+# Make predictions
+print(model.predict(["win money now"]))  # -> ['spam']
+print(model.predict(["hello"]))          # -> ['ham']
+```
+
+---
+
+## 📊 Understanding CountVectorizer
+
+`CountVectorizer` turns text into a bag-of-words representation:
+
+| Text             | free | money | now | call | me | hello | friend | meeting | today | win | big | prize |
+|------------------|------|-------|-----|------|----|--------|--------|---------|-------|-----|-----|--------|
+| Free money now   | 1    | 1     | 1   | 0    | 0  | 0      | 0      | 0       | 0     | 0   | 0   | 0      |
+| Hello friend     | 0    | 0     | 0   | 0    | 0  | 1      | 1      | 0       | 0     | 0   | 0   | 0      |
+
+Each row is a vector of word counts.
+
+---
+
+## 📌 Summary
+
+- **Naive Bayes** uses Bayes' Theorem with a strong independence assumption.
+- **MultinomialNB** works well for text data represented by word counts.
+- Use **CountVectorizer** to transform text into numerical vectors.
+- Fast, simple, and surprisingly effective!
+
+---
+
+## 📚 Further Exploration
+
+- Try `TfidfVectorizer` instead of `CountVectorizer`.
+- Test with datasets like SMS Spam Collection or movie reviews.
+- Evaluate using accuracy, precision, and recall.

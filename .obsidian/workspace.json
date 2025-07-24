@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed54f9153cc2d0fe",
+        "id": "10fd91a595ac5eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c15d13fffdf779",
+            "id": "be2e3e6b2ba0e3c2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "ddac343a70fa0a1e",
+            "id": "fbf24e70475ed586",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3.2 Wrapper Methods.md",
+                "file": "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/CHEATSHEET de ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3.2 Wrapper Methods"
+              "title": "CHEATSHEET de ML"
             }
           }
         ],
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5026054382324
+    "width": 215.505859375
   },
   "right": {
     "id": "5a85d44b814d793f",
@@ -153,27 +153,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/CHEATSHEET de ML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "fb35237dc3271d65",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of CHEATSHEET de ML"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,42 +177,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddac343a70fa0a1e",
+  "active": "fbf24e70475ed586",
   "lastOpenFiles": [
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3.2 Wrapper Methods.md",
-    "JAVA/1. JAVA/JAVA.md",
-    "JAVA/2. SPRING BOOT/2.1 PROY REST with JPA/3 DAO CRUD.md",
-    "JAVA/2. SPRING BOOT/2.1 PROY REST with JPA/2 SERVICE LAYER.md",
-    "JAVA/2. SPRING BOOT/2.1 PROY REST with JPA/0 Proyect SPRING REST using DB.md",
-    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/1 Main Concepts.md",
-    "DATA SCIENCE ROADMAP/3 Mathemetics/Stadistics/3 EDA ADV Variance and Standard Deviation.md",
-    "DATA SCIENCE ROADMAP/2 Data Analysis/Data Analysis/DATA ANALYSIS.md",
-    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/2 Types of Data Analysis.md",
-    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/3 Data Science workflow.md",
-    "DATA SCIENCE ROADMAP/2 Data Analysis/Main Concepts/3 Writing Data Science Reports.md",
-    "DATA SCIENCE ROADMAP/3 Mathemetics/Stadistics/2 Rules of Probability.md",
-    "DATA SCIENCE ROADMAP/3 Mathemetics/Stadistics/1 Stadistics.md",
-    "DATA SCIENCE/4 Maths/Stadistics/1 Stadistics.md",
-    "DATA SCIENCE/1 Data Science/DATA SCIENCE.md",
-    "DATA SCIENCE ROADMAP/2 Data Analysis",
-    "DATA SCIENCE ROADMAP/1 Data Science/DATA SCIENCE ROADMAP.md",
-    "DATA SCIENCE/4 Maths/Math.md",
+    "11_Naive_Bayes_ES.md",
     "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/CHEATSHEET de ML.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/1 ML intro.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3 Methods for Feature Reduction.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.2 Methods for Dimensional Reduction.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.3.1 Filter Methods.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2 Feature Engineering.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.1 Transformation Methods.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.1.2 Encoding Categorical Variables.md",
-    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/2.1.1 Numerical Transformations.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3.9 Bayesian Naives Classifier.md",
+    "naive_bayes_classifier.md",
+    "999. IMG FOLDER/naive_bayes_classifier.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3 SUPERVISED LEARNING.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3.8 SVM Support Vector Machines.md",
+    "10_Recommender_Systems_ES_v2.md",
+    "10_Recommender_Systems_ES.md",
+    "10_Recommender_Systems.md",
+    "ML_DS_Cheatsheet.md",
+    "recommender_systems (2).md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3.7.3 Stacking Ensemble.md",
+    "recommender_systems (1).md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/4 UNSUPERVISED LEARNING.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/5 HYPERPARAMETER TUNNING.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/6 Recommender Systems.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/4.1 K-Means Clustering.md",
+    "recommendation_systems_surprise.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3.9 Recommendation Systems.md",
+    "SVM_Explained_Detailed.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3.7.2 Boosting Methods.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3.7 ENSEMBLE METHODS.md",
+    "DATA SCIENCE ROADMAP/4 Machine Learning/2 Machine learning/3.6 Decision Tree.md",
+    "stacking_methods.md",
+    "boosting_methods.md",
+    "CHEATSHEETS/ai_data_scientist_roadmap.canvas",
+    "DATA SCIENCE ROADMAP/2 Data Analysis",
     "999. IMG FOLDER/image-27.png",
     "PYTHON/7 Scikit-Learn",
-    "CHEATSHEETS/ai_data_scientist_roadmap.canvas",
     "999. IMG FOLDER/image-26.png",
     "999. IMG FOLDER/image-25.png",
     "999. IMG FOLDER/image-24.png",

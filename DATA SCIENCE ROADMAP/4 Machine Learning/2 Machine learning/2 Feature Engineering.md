@@ -1,11 +1,9 @@
 #Machine_Learning 
 
-[[2.1 Transformation Methods]]
-[[2.2 Methods for Dimensional Reduction]]
-[[2.3 Methods for Feature Reduction]]
+[[2.1 NUM AND CATEG TRANSFORMATIONS]]
+[[2.2 DIMENSIONAL TRANSFORMATIONS]]
+[[2.3 METHODS FOR FEATURE REDUCTION]]
 
-[[3 Supervised Learning]]
-[[4 Unsupervised Learning]]
 
 
 
