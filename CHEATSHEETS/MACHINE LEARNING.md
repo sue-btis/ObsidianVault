@@ -1,3 +1,11 @@
+---
+tags:
+  - Machine_Learning
+  - Python
+  - CHEATSHEET
+creation_date: 2025-07-25
+---
+  
 
 # 🧠 Machine Learning & Data Science Cheatsheet
 
@@ -138,10 +146,6 @@ np.linalg.solve(A, b)
 7. **Evaluación del modelo**: métricas (accuracy, MSE, F1-score...).
 8. **Ajuste y validación cruzada**: `GridSearchCV`, regularización.
 9. **Despliegue**: exportar con `joblib`, usar en APIs o dashboards.
-
----
-
-(En la siguiente parte se incluirán modelos de ML supervisado y no supervisado, métricas y visualización avanzada.)
 
 ---
 ## 👨‍🏫 Conceptos Clave
